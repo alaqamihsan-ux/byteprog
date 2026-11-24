@@ -1,6 +1,6 @@
 {
-  "version": "2.2",
-  "notes": "• سحب أسهل للخزائن في واجهة الجدار\n• قاعدة الخزائن الأرضية: سوكل خشب أو أرجل\n• لون جدار البيت من بداية التصميم",
-  "html": "https://raw.githubusercontent.com/alaqamihsan-ux/byteprog/main/diqqa-cut/diqqa-cut-2.2.html",
+  "version": "2.3",
+  "notes": "• أسعار جديدة بالفاتورة: متر الرخام، السنك، خلاط الماء، الطباخ، المرشحة\n• سحب أسهل للخزائن في واجهة الجدار\n• قاعدة الخزائن: سوكل أو أرجل\n• لون جدار البيت",
+  "html": "https://raw.githubusercontent.com/alaqamihsan-ux/byteprog/main/diqqa-cut/diqqa-cut-2.3.html",
   "apk": "https://github.com/alaqamihsan-ux/byteprog/releases/download/diqqa-cut-2.1/DiqqaCut-APK-2.1.zip"
 }
