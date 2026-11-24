@@ -1,6 +1,6 @@
 {
-  "version": "2.5",
-  "notes": "• شاشة التصميم 2D و 3D أكبر، وأزرار السابق والتالي أسهم صغيرة\n• المسافة تحت زاوية العلوي\n• أسعار الرخام والسنك والخلاط والطباخ والمرشحة",
-  "html": "https://raw.githubusercontent.com/alaqamihsan-ux/byteprog/main/diqqa-cut/diqqa-cut-2.5.html",
-  "apk": "https://github.com/alaqamihsan-ux/byteprog/releases/download/diqqa-cut-2.1/DiqqaCut-APK-2.1.zip"
+  "version": "2.6",
+  "notes": "• تصدير ملف القطع لمكينة CNC (DXF) وإرساله عبر واتساب\n• عند إنهاء التصميم يُعرض إرسال ملف CNC مباشرة\n• (على التابلت يتطلب تثبيت APK 2.6)",
+  "html": "https://raw.githubusercontent.com/alaqamihsan-ux/byteprog/main/diqqa-cut/diqqa-cut-2.6.html",
+  "apk": "https://github.com/alaqamihsan-ux/byteprog/releases/download/diqqa-cut-2.6/DiqqaCut-2.6.apk"
 }
