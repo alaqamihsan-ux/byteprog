@@ -1,6 +1,6 @@
 {
-  "version": "2.4",
-  "notes": "• إظهار المسافة بين زاوية العلوي والخزائن الأرضية بواجهة الجدار\n• أسعار الرخام والسنك والخلاط والطباخ والمرشحة\n• قاعدة الخزائن ولون الجدار وسحب أسهل",
-  "html": "https://raw.githubusercontent.com/alaqamihsan-ux/byteprog/main/diqqa-cut/diqqa-cut-2.4.html",
+  "version": "2.5",
+  "notes": "• شاشة التصميم 2D و 3D أكبر، وأزرار السابق والتالي أسهم صغيرة\n• المسافة تحت زاوية العلوي\n• أسعار الرخام والسنك والخلاط والطباخ والمرشحة",
+  "html": "https://raw.githubusercontent.com/alaqamihsan-ux/byteprog/main/diqqa-cut/diqqa-cut-2.5.html",
   "apk": "https://github.com/alaqamihsan-ux/byteprog/releases/download/diqqa-cut-2.1/DiqqaCut-APK-2.1.zip"
 }
